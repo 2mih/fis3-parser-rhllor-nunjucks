@@ -1,0 +1,18 @@
+{
+  "name": "fis3-parser-rhllor-ejs",
+  "version": "1.0.0",
+  "description": "transfer ejs to html",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/2mih/fis3-parser-rhllor-ejs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cheng.liu@imaygou.com",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.4.1"
+  }
+}
