@@ -13,7 +13,6 @@
   "author": "cheng.liu@imaygou.com",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.4.1",
     "nunjucks": "^2.3.0"
   }
 }
