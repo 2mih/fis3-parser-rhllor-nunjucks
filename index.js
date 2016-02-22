@@ -10,5 +10,5 @@ module.exports = function (content, file, conf) {
   var dataFile = fs.readFileSync(dataPath);
   var data = JSON.parse(dataFile);
 
-  return nunjucks.configure(dataDir).renderString(content, data);
+  return nunjucks.configure(conf.path).renderString(content, data);
 };
