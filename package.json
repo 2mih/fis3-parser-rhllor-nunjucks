@@ -1,11 +1,11 @@
 {
-  "name": "fis3-parser-rhllor-ejs",
+  "name": "fis3-parser-rhllor-nunjucks",
   "version": "1.0.0",
-  "description": "transfer ejs to html",
+  "description": "compile nunjucks templates",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/2mih/fis3-parser-rhllor-ejs.git"
+    "url": "git://github.com/2mih/fis3-parser-rhllor-nunjucks.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
